@@ -1,0 +1,23 @@
+{
+  "name": "gsap_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beachball.js",
+  "dependencies": {
+    "gsap": "^3.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md2eoseo/greensock_exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md2eoseo/greensock_exercise/issues"
+  },
+  "homepage": "https://github.com/md2eoseo/greensock_exercise#readme"
+}
